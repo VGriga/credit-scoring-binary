@@ -14,10 +14,10 @@ Industry| Categorical | job sector of current or most recent job
 Ethnicity| Categorical | 
 YearsEmployed | Numeric | 
 PriorDefault| Binary | 0=no prior defaults, 1=prior default
-  Employed| Binary | 0=not employed, 1=employed
-    CreditScore | Numeric |
-    DriversLicense | Binary | 0=no license, 1=has license
-    Citizenship | Categorical| either ByBirth, ByOtherMeans or Temporary
-    ZipCode: | Categorical | digit number
-    Income | Numeric |
-  Approved | Binary| 0=not approved, 1=approved
+Employed| Binary | 0=not employed, 1=employed
+CreditScore | Numeric |
+DriversLicense | Binary | 0=no license, 1=has license
+Citizenship | Categorical| either ByBirth, ByOtherMeans or Temporary
+ZipCode: | Categorical | digit number
+Income | Numeric |
+Approved | Binary| 0=not approved, 1=approved
